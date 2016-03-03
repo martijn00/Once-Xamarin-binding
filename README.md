@@ -23,6 +23,7 @@ if (!Once.beenDone(Once.THIS_APP_INSTALL, showAppTour)) {
 For more options please visit the github page: https://github.com/jonfinerty/Once.
 ### Thanks to
 [Jon Finerty] for the original library.
+
 [Martijn van Dijk] for helping with bindings.
 
 [Martijn van Dijk]:<https://github.com/martijn00>
