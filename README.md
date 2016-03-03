@@ -17,7 +17,7 @@ Now you can start using Once
 string showAppTour = "showAppTour"; //unique tag
 
 if (!Once.beenDone(Once.THIS_APP_INSTALL, showAppTour)) {
-Once.markDone(showAppTour);
+    Once.markDone(showAppTour);
 }
 ```
 For more options please visit the github page: https://github.com/jonfinerty/Once.
