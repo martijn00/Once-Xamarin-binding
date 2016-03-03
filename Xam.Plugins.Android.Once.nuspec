@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Xam.Plugins.Android.Once</id>
+        <version>0.5.0</version>
+        <title>Once binding for Xamarin.Android</title>
+        <authors>Marc Bruins</authors>
+        <owners>Marc Bruins</owners>
+        <licenseUrl>https://github.com/Workerbee/Once-Xamarin-binding/blob/master/LICENSE.md</licenseUrl>
+        <projectUrl>https://github.com/Workerbee/Once-Xamarin-binding</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Once binding for Xamarin.Android</description>
+        <summary>Xamarin bindings library for the Once library</summary>
+        <tags>xamarin, monodroid, C#, xamarin.android, android</tags>
+    </metadata>
+    <files>
+        <file src="Once\bin\Release\Once.dll" target="lib\MonoAndroid\Once.dll" />
+        <file src="Once\bin\Release\Once.dll.mdb" target="lib\MonoAndroid\Once.dll.mdb" />
+    </files>
+</package>
