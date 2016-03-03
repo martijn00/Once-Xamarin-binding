@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>MarcBruins.Once</id>
+        <version>0.5.0</version>
+        <title>Once binding for Xamarin.Android</title>
+        <authors>Marc Bruins</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Once binding for Xamarin.Android</description>
+    </metadata>
+    <files>
+        <file src="Once\.git\branches\_._" target="Once\.git\branches\_._" />
+        <file src=".git\hooks\applypatch-msg.sample" target="Once\.git\hooks\applypatch-msg.sample" />
+        <file src=".git\hooks\commit-msg.sample" target="Once\.git\hooks\commit-msg.sample" />
+        <file src=".git\hooks\post-update.sample" target="Once\.git\hooks\post-update.sample" />
+        <file src=".git\hooks\pre-applypatch.sample" target="Once\.git\hooks\pre-applypatch.sample" />
+        <file src=".git\hooks\pre-commit.sample" target="Once\.git\hooks\pre-commit.sample" />
+        <file src=".git\hooks\pre-push.sample" target="Once\.git\hooks\pre-push.sample" />
+        <file src=".git\hooks\pre-rebase.sample" target="Once\.git\hooks\pre-rebase.sample" />
+        <file src=".git\hooks\prepare-commit-msg.sample" target="Once\.git\hooks\prepare-commit-msg.sample" />
+        <file src=".git\hooks\README.sample" target="Once\.git\hooks\README.sample" />
+        <file src=".git\hooks\update.sample" target="Once\.git\hooks\update.sample" />
+        <file src=".git\info\exclude" target="Once\.git\info\exclude" />
+        <file src=".git\logs\refs\heads\master" target="Once\.git\logs\refs\heads\master" />
+        <file src=".git\logs\refs\remotes\origin\master" target="Once\.git\logs\refs\remotes\origin\master" />
+        <file src=".git\logs\HEAD" target="Once\.git\logs\HEAD" />
+        <file src=".git\objects\11\e5c6ecb820fa7464340535965a5027c9ceb763" target="Once\.git\objects\11\e5c6ecb820fa7464340535965a5027c9ceb763" />
+        <file src=".git\objects\1c\db0d35aa0ac00b5a9f891126e0262e7baaf36d" target="Once\.git\objects\1c\db0d35aa0ac00b5a9f891126e0262e7baaf36d" />
+        <file src=".git\objects\2e\fa8146714db76f39fc82f806911a8c64d46acc" target="Once\.git\objects\2e\fa8146714db76f39fc82f806911a8c64d46acc" />
+        <file src=".git\objects\32\0a154bed49f05e64780a7a1d07650384266737" target="Once\.git\objects\32\0a154bed49f05e64780a7a1d07650384266737" />
+        <file src=".git\objects\54\289b16d3dc464cba774a7e070a4d9e926c41c0" target="Once\.git\objects\54\289b16d3dc464cba774a7e070a4d9e926c41c0" />
+        <file src=".git\objects\62\5b7bf47be1cf1c44c4233827df17c962a059c7" target="Once\.git\objects\62\5b7bf47be1cf1c44c4233827df17c962a059c7" />
+        <file src=".git\objects\67\a64a02ffdd8090909296dd2c61a0c2dba54301" target="Once\.git\objects\67\a64a02ffdd8090909296dd2c61a0c2dba54301" />
+        <file src=".git\objects\68\cddb00971398f41562d5cba5df996314b40865" target="Once\.git\objects\68\cddb00971398f41562d5cba5df996314b40865" />
+        <file src=".git\objects\7b\bcfed0d4ac0650ca4682e640ca22375d1a159f" target="Once\.git\objects\7b\bcfed0d4ac0650ca4682e640ca22375d1a159f" />
+        <file src=".git\objects\7e\68f335c181f1d7952cecc3b3b87b62de311f27" target="Once\.git\objects\7e\68f335c181f1d7952cecc3b3b87b62de311f27" />
+        <file src=".git\objects\90\2a23cc31a9a07723f90e6338ae368d8b359962" target="Once\.git\objects\90\2a23cc31a9a07723f90e6338ae368d8b359962" />
+        <file src=".git\objects\97\8b3b204deb2c4f90d476b3914fc722b558b55a" target="Once\.git\objects\97\8b3b204deb2c4f90d476b3914fc722b558b55a" />
+        <file src=".git\objects\a3\bfb3058666005fa095ff701e903812dd357b0a" target="Once\.git\objects\a3\bfb3058666005fa095ff701e903812dd357b0a" />
+        <file src=".git\objects\a7\adb47535e68515c0cdc83e2a3d5a1cc71c9784" target="Once\.git\objects\a7\adb47535e68515c0cdc83e2a3d5a1cc71c9784" />
+        <file src=".git\objects\ab\869d4323e3bc40a908ad10c788195bebb3224b" target="Once\.git\objects\ab\869d4323e3bc40a908ad10c788195bebb3224b" />
+        <file src=".git\objects\b0\5fc7ea9bacfffb9822c40cde5408aef353c339" target="Once\.git\objects\b0\5fc7ea9bacfffb9822c40cde5408aef353c339" />
+        <file src=".git\objects\b2\23de45c4d34a04216574cff2f15da0dcd4ae31" target="Once\.git\objects\b2\23de45c4d34a04216574cff2f15da0dcd4ae31" />
+        <file src=".git\objects\c5\11f1d4ee1f23e3d55e951fb584cd04d625071c" target="Once\.git\objects\c5\11f1d4ee1f23e3d55e951fb584cd04d625071c" />
+        <file src=".git\objects\c6\d92c3161e00cb7c34410aafe1fb3f63113956f" target="Once\.git\objects\c6\d92c3161e00cb7c34410aafe1fb3f63113956f" />
+        <file src=".git\objects\d0\15ce058ad4d6daaf89e326e4050469d383fb96" target="Once\.git\objects\d0\15ce058ad4d6daaf89e326e4050469d383fb96" />
+        <file src=".git\objects\dc\5291ae173c10e5ab3cb717d89f901e0b102fea" target="Once\.git\objects\dc\5291ae173c10e5ab3cb717d89f901e0b102fea" />
+        <file src=".git\objects\e9\278ce1d4a570541ed6e9d950331fe9e48f84d9" target="Once\.git\objects\e9\278ce1d4a570541ed6e9d950331fe9e48f84d9" />
+        <file src=".git\objects\e9\af0eeb3d3565bbeefe05aa95df7a002c0c1a13" target="Once\.git\objects\e9\af0eeb3d3565bbeefe05aa95df7a002c0c1a13" />
+        <file src=".git\objects\ff\601237d7caee231074f466ccf5d447274e4ea0" target="Once\.git\objects\ff\601237d7caee231074f466ccf5d447274e4ea0" />
+        <file src="Once\.git\objects\info\_._" target="Once\.git\objects\info\_._" />
+        <file src="Once\.git\objects\pack\_._" target="Once\.git\objects\pack\_._" />
+        <file src=".git\refs\heads\master" target="Once\.git\refs\heads\master" />
+        <file src=".git\refs\remotes\origin\master" target="Once\.git\refs\remotes\origin\master" />
+        <file src="Once\.git\refs\tags\_._" target="Once\.git\refs\tags\_._" />
+        <file src=".git\COMMIT_EDITMSG" target="Once\.git\COMMIT_EDITMSG" />
+        <file src=".git\config" target="Once\.git\config" />
+        <file src=".git\description" target="Once\.git\description" />
+        <file src=".git\HEAD" target="Once\.git\HEAD" />
+        <file src=".git\index" target="Once\.git\index" />
+        <file src=".git\sourcetreeconfig" target="Once\.git\sourcetreeconfig" />
+        <file src="Once\Additions\AboutAdditions.txt" target="Once\Once\Additions\AboutAdditions.txt" />
+        <file src="Once\bin\Debug\Once.dll" target="Once\Once\bin\Debug\Once.dll" />
+        <file src="Once\bin\Debug\Once.dll.mdb" target="Once\Once\bin\Debug\Once.dll.mdb" />
+        <file src="Once\Jars\AboutJars.txt" target="Once\Once\Jars\AboutJars.txt" />
+        <file src="Once\Jars\once-0.5.0.aar" target="Once\Once\Jars\once-0.5.0.aar" />
+        <file src="Once\Once\obj\Debug\generated\enums\_._" target="Once\Once\obj\Debug\generated\enums\_._" />
+        <file src="Once\obj\Debug\generated\src\enumlist" target="Once\Once\obj\Debug\generated\src\enumlist" />
+        <file src="Once\obj\Debug\generated\src\Java.Interop.__TypeRegistrations.cs" target="Once\Once\obj\Debug\generated\src\Java.Interop.__TypeRegistrations.cs" />
+        <file src="Once\obj\Debug\generated\src\Jonathanfinerty.Once.BuildConfig.cs" target="Once\Once\obj\Debug\generated\src\Jonathanfinerty.Once.BuildConfig.cs" />
+        <file src="Once\obj\Debug\generated\src\Jonathanfinerty.Once.Once.cs" target="Once\Once\obj\Debug\generated\src\Jonathanfinerty.Once.Once.cs" />
+        <file src="Once\obj\Debug\generated\src\Jonathanfinerty.Once.PersistedSet.cs" target="Once\Once\obj\Debug\generated\src\Jonathanfinerty.Once.PersistedSet.cs" />
+        <file src="Once\obj\Debug\generated\src\__NamespaceMapping__.cs" target="Once\Once\obj\Debug\generated\src\__NamespaceMapping__.cs" />
+        <file src="Once\obj\Debug\generated\metadata" target="Once\Once\obj\Debug\generated\metadata" />
+        <file src="Once\obj\Debug\library_project_annotations\annotations.zip" target="Once\Once\obj\Debug\library_project_annotations\annotations.zip" />
+        <file src="Once\obj\Debug\library_project_imports\aapt\AndroidManifest.xml" target="Once\Once\obj\Debug\library_project_imports\aapt\AndroidManifest.xml" />
+        <file src="Once\Once\obj\Debug\library_project_imports\aidl\_._" target="Once\Once\obj\Debug\library_project_imports\aidl\_._" />
+        <file src="Once\Once\obj\Debug\library_project_imports\assets\_._" target="Once\Once\obj\Debug\library_project_imports\assets\_._" />
+        <file src="Once\obj\Debug\library_project_imports\bin\AndroidManifest.xml" target="Once\Once\obj\Debug\library_project_imports\bin\AndroidManifest.xml" />
+        <file src="Once\obj\Debug\library_project_imports\bin\annotations.zip" target="Once\Once\obj\Debug\library_project_imports\bin\annotations.zip" />
+        <file src="Once\obj\Debug\library_project_imports\bin\classes.jar" target="Once\Once\obj\Debug\library_project_imports\bin\classes.jar" />
+        <file src="Once\obj\Debug\library_project_imports\bin\R.txt" target="Once\Once\obj\Debug\library_project_imports\bin\R.txt" />
+        <file src="Once\Once\obj\Debug\library_project_imports\res\_._" target="Once\Once\obj\Debug\library_project_imports\res\_._" />
+        <file src="Once\obj\Debug\library_project_imports\AndroidManifest.xml" target="Once\Once\obj\Debug\library_project_imports\AndroidManifest.xml" />
+        <file src="Once\obj\Debug\library_project_imports\R.txt" target="Once\Once\obj\Debug\library_project_imports\R.txt" />
+        <file src="Once\obj\Debug\library_project_jars\classes.jar" target="Once\Once\obj\Debug\library_project_jars\classes.jar" />
+        <file src="Once\Once\obj\Debug\__library_projects__\_._" target="Once\Once\obj\Debug\__library_projects__\_._" />
+        <file src="Once\obj\Debug\api.xml" target="Once\Once\obj\Debug\api.xml" />
+        <file src="Once\obj\Debug\generator.stamp" target="Once\Once\obj\Debug\generator.stamp" />
+        <file src="Once\obj\Debug\libraryimports.cache" target="Once\Once\obj\Debug\libraryimports.cache" />
+        <file src="Once\obj\Debug\libraryprojectimports.cache" target="Once\Once\obj\Debug\libraryprojectimports.cache" />
+        <file src="Once\obj\Debug\MonoAndroid,Version=v6.0.AssemblyAttribute.cs" target="Once\Once\obj\Debug\MonoAndroid,Version=v6.0.AssemblyAttribute.cs" />
+        <file src="Once\obj\Debug\Once.csproj.FilesWrittenAbsolute.txt" target="Once\Once\obj\Debug\Once.csproj.FilesWrittenAbsolute.txt" />
+        <file src="Once\obj\Debug\Once.dll" target="Once\Once\obj\Debug\Once.dll" />
+        <file src="Once\obj\Debug\Once.dll.mdb" target="Once\Once\obj\Debug\Once.dll.mdb" />
+        <file src="Once\obj\Debug\Once.obj.Debug.__AndroidLibraryProjects__.zip" target="Once\Once\obj\Debug\Once.obj.Debug.__AndroidLibraryProjects__.zip" />
+        <file src="Once\obj\Debug\resourcepaths.cache" target="Once\Once\obj\Debug\resourcepaths.cache" />
+        <file src="Once\obj\Debug\sdks.cache" target="Once\Once\obj\Debug\sdks.cache" />
+        <file src="Once\obj\Debug\__AndroidLibraryProjects__.zip" target="Once\Once\obj\Debug\__AndroidLibraryProjects__.zip" />
+        <file src="Once\Properties\AssemblyInfo.cs" target="Once\Once\Properties\AssemblyInfo.cs" />
+        <file src="Once\Transforms\EnumFields.xml" target="Once\Once\Transforms\EnumFields.xml" />
+        <file src="Once\Transforms\EnumMethods.xml" target="Once\Once\Transforms\EnumMethods.xml" />
+        <file src="Once\Transforms\Metadata.xml" target="Once\Once\Transforms\Metadata.xml" />
+        <file src="Once\Once.csproj" target="Once\Once\Once.csproj" />
+        <file src=".gitignore" target="Once\.gitignore" />
+        <file src="Once.sln" target="Once\Once.sln" />
+        <file src="Once.userprefs" target="Once\Once.userprefs" />
+        <file src="README.md" target="Once\README.md" />
+    </files>
+</package>
